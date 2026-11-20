@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Training output and debug images
+runs/
+ocr_debug/
+
+# Dataset images (exported from Roboflow, too large for the repo)
+train/
+valid/
+test/
+
+# Base pretrained weights (downloaded automatically by Ultralytics)
+yolov8n.pt
+
+# Local logs
+gauge_readings.csv
+
+# OS files
+.DS_Store
+Thumbs.db
