@@ -1,0 +1,6 @@
+path: D:/gauge-analog.v1i.yolov8
+train: train/images
+val: valid/images
+test: test/images
+nc: 5
+names: ['center', 'gauge', 'max', 'min', 'tip']

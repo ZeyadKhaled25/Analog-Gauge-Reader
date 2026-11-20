@@ -1,0 +1,6 @@
+﻿date,time,round,device,reading,unit,scale_min,scale_max,scale_source,status
+01/11/2026,13:54:44,1,Device 1,32.65,,0,80,auto,OK
+03/11/2026,15:11:14,1,Device 1,23.02,,0,100,auto,OK
+03/11/2026,15:12:32,1,Device 1,4.20,,0,7,auto,OK
+03/11/2026,15:12:39,1,Device 1,41.49,,0,120,auto,OK
+03/11/2026,15:16:02,1,Device 3,22.99,,0,100,auto,OK
